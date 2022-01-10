@@ -12,7 +12,7 @@ public class Application {
 	@GetMapping
 	public String Power()
 	{
-		return "this is my first aplication";
+		return "Hi this is my first deployment";
 		
 	}
 	public static void main(String[] args) {
